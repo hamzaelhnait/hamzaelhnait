@@ -1,6 +1,6 @@
 
 ## 🤵 About Me 
-<br>I'm an engineer student in ENSIAS, I'm interested in every field that contains maths and IT especially Data Science, ML, AI. <br>
+<br>I'm an engineering student in ENSIAS, I'm interested in every field that contains maths and IT especially Data Science, ML, AI. <br>
 
 ## 💻 Languages and Technologies:
 
